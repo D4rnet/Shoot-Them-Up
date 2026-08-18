@@ -14,4 +14,4 @@ It was written to work through the engine's C++ side deliberately rather than re
 - **UI** — UMG widgets created and driven from C++.
 ## Built with
  
-Unreal Engine 5 · C++
+Unreal Engine 5 · C++ · Blueprints · UMG
