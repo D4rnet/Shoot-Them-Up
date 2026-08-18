@@ -1,6 +1,6 @@
 # Shoot Them Up
  
-A third-person shooter built **entirely in C++** in Unreal Engine 5, with no Blueprint gameplay logic. Course project, **[FILL: year]**.
+A third-person shooter built **entirely in C++** in Unreal Engine 5, with no Blueprint gameplay logic. Course project, **2024**.
  
 ## Why this one is worth reading
  
